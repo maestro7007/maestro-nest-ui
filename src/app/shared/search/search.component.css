@@ -1,0 +1,81 @@
+.example-form-field {
+  height: 58px;
+  background: #107cd8;
+  width: 450px;
+  color: whitesmoke;
+  margin-top: -10px;
+  border: none;
+  box-shadow: none !important;
+}
+
+.mat-form-field-outline-thick {
+  color: #107cd8 !important;
+  border: none !important;
+  height: 58px;
+}
+
+.mat-form-field-appearance-outline .mat-form-field-flex {
+  height: 60px;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.example-form-field:focus-within {
+  background-color: whitesmoke !important;
+  color: black !important;
+  border: none !important;
+}
+
+.example-form-field:hover {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* .mat-form-field-label {
+  color: white !important;
+}
+
+.mat-form-field-underline {
+  background-color: white !important;
+  ;
+}
+
+.mat-form-field-ripple {
+  background-color: white !important;
+} */
+
+.search {
+ 
+}
+
+.search-container {
+  width: 450px;
+  height: 60px;
+}
+
+.search-container button,
+.search-container a {
+  margin-right: 8px;
+}
+
+.clear-btn {
+  background: inherit !important;
+  border: none;
+  color: whitesmoke;
+  margin-right: 0px;
+  box-shadow: none !important;
+}
+
+.example-form {
+    /* max-width: 300px;
+    width: 250px;
+    width: 100%; */
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+  td {
+    padding-right: 8px;
+  }
