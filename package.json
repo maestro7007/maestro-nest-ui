@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "generate-docs": "npx compodoc -p tsconfig.json -s"
+    "generate-docs": "npx compodoc -p tsconfig.json -s --theme material"
   },
   "private": true,
   "repository": {
